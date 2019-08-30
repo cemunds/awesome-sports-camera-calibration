@@ -3,17 +3,17 @@
 A collection of resources on Sports Camera Calibration
 
 ## Table of Contents
-* Basics
-* Papers
-	* Homography Estimation for Planar Scenarios
-	* Dealing with Lens Distortion
-	* Self-calibration for PTZ Cameras
-	* Real-time Camera Pose Tracking
-	* Misc
-* Datasets
+* [Basics](#basics)
+* [Papers](#papers)
+	* [Homography Estimation for Planar Scenarios](#homography-estimation-for-planar-scenarios)
+	* [Dealing with Lens Distortion](#dealing-with-lens-distortion)
+	* [Pan-Tilt-Zoom Camera Calibration](#pan-tilt-zoom-ptz-camera-calibration)
+	* [Real-time Camera Pose Tracking](#real-time-camera-pose-tracking)
+	* [Misc](#real-time-camera-pose-tracking)
+* [Datasets](#datasets)
 
 ## Basics
-* Multiple view geometry in computer vision (2004)
+* [Multiple view geometry in computer vision](https://cseweb.ucsd.edu/classes/sp13/cse252B-a/HZ2eCh2.pdf) (2004)
 
 ## Papers
 
@@ -50,39 +50,40 @@ A collection of resources on Sports Camera Calibration
 * [Camera pose estimation in soccer scenes based on vanishing points](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1005.8778&rep=rep1&type=pdf) (2010)
 * [Exploiting distinctive visual landmark maps in pan-tilt-zoom camera networks](https://www.sciencedirect.com/science/article/pii/S1077314210000305) (2010)
 * [Automatic line mark recognition and its application in camera calibration in soccer video](https://ieeexplore.ieee.org/document/6012137) (2011)
-* Calibration method for a TV and video camera (2011)
 * [Robust multi-view camera calibration for wide-baseline camera networks](http://www-oldurls.inf.ethz.ch/personal/marc.pollefeys/pubs/PuweinWACV11.pdf) (2011)
-* PTZ camera network calibration from moving people in sports broadcasts (2012)
-* Keeping a pan-tilt-zoom camera calibrated (2013)
-* Camera calibration in sport event scenarios (2014)
-* Method for pan-tilt camera calibration using single control point (2015)
-* Court reconstruction for camera calibration in broadcast basketball videos (2016)
-* Deep regression for monocular camera-based 6-DoF global localization in outdoor environments (2017)
-* Sports field localization via deep structured models (2017)
-* A two-point method for PTZ camera calibration in sports (2018)
-* Calibrating cameras in poor-conditioned pitch-based sports games (2018)
+* [PTZ camera network calibration from moving people in sports broadcasts](http://www-oldurls.inf.ethz.ch/personal/marc.pollefeys/pubs/PuweinWACV12.pdf) (2012)
+* [Keeping a pan-tilt-zoom camera calibrated](https://www.researchgate.net/publication/240308786_Keeping_a_Pan-Tilt-Zoom_Camera_Calibrated) (2013)
+* [Camera calibration in sport event scenarios](http://clok.uclan.ac.uk/18033/1/18033-Camera_calibration_in_sport_event_scenarios.pdf) (2014)
+* [Method for pan-tilt camera calibration using single control point](https://www.researchgate.net/publication/269935858_Method_for_pan-tilt_camera_calibration_using_single_control_point) (2015)
+* [Court reconstruction for camera calibration in broadcast basketball videos](https://ieeexplore.ieee.org/document/7118240) (2016)
+* [Deep regression for monocular camera-based 6-DoF global localization in outdoor environments](http://ais.informatik.uni-freiburg.de/publications/papers/naseer17iros.pdf) (2017)
+* [Sports field localization via deep structured models](http://www.cs.toronto.edu/~namdar/pdfs/sports_cvpr_2017.pdf) (2017)
+* [A two-point method for PTZ camera calibration in sports](https://arxiv.org/pdf/1801.09005.pdf) (2018)
+* [Calibrating cameras in poor-conditioned pitch-based sports games](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0001902.pdf) (2018)
 
 ### Real-time Camera Pose Tracking
-* A soccer field tracking method with wire frame model from TV images (2004)
-* Real-time camera tracking using sports pitch markings (2007)
-* PoseNet: A convolutional network for real-time 6-DOF camera relocalization (2015)
-* Realtime camera motion tracking in planar view scenarios (2016)
-* Continuous localization and mapping of pan-tilt-zoom camera for wide area tracking (2016)
-* Pan-tilt-zoom SLAM for Sports Videos (2019)
+* [A soccer field tracking method with wire frame model from TV images](https://ieeexplore.ieee.org/document/1421382) (2004)
+* [Real-time camera tracking using sports pitch markings](https://www.researchgate.net/publication/220243595_Real-time_camera_tracking_using_sports_pitch_markings) (2007)
+* [PoseNet: A convolutional network for real-time 6-DOF camera relocalization](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf) (2015)
+* [Continuous localization and mapping of pan-tilt-zoom camera for wide area tracking](https://arxiv.org/pdf/1401.6606.pdf) (2015)
+* [Realtime camera motion tracking in planar view scenarios](https://www.researchgate.net/publication/237842364_Real-Time_Camera_Motion_Tracking_in_Planar_View_Scenarios) (2016)
+* [Pan-tilt-zoom SLAM for Sports Videos](https://arxiv.org/pdf/1907.08816.pdf) (2019)
 
 ### Misc
-* Tracking players and a ball in video image sequence and estimating camera parameters for 3D interpretation of soccer games (2002)
-* Tracking soccer ball in TV broadcast video (2005)
-* A new method to calculate the camera focusing area and player position on play field in soccer video (2005)
-* Automatic production system of soccer sports video by digital camera work based on situation recognition (2006)
-* Extracting 3d information from broadcast soccer video (2006)
-* Fast arc detection algorithm for play field registration in soccer video mining (2006)
-* Motion fields to predict play evolution in dynamic sport scenes (2010)
-* Automatic player labeling, tracking and field registration and trajectory mapping in broadcast soccer video (2011)
-* An algorithm for highlights identification and summarization of broadcast soccer videos (2012)
-* Automatic soccer video analysis and summarization (2003)
-* Robust video registration applied to field-sports video analysis (2012)
-* Automated top view registration of broadcast football videos (2017)
-* Soccer on your tabletop (2018)
+* [Tracking players and a ball in video image sequence and estimating camera parameters for 3D interpretation of soccer games](http://www.aisl.cs.tut.ac.jp/~jun/pdffiles/yamada-icpr2002.pdf) (2002)
+* [Tracking soccer ball in TV broadcast video](https://www.researchgate.net/publication/221356623_Tracking_Soccer_Ball_in_TV_Broadcast_Video) (2005)
+* [A new method to calculate the camera focusing area and player position on play field in soccer video](https://www.researchgate.net/publication/228391113_A_new_method_to_calculate_the_camera_focusing_area_and_player_position_on_playfield_in_soccer_video) (2005)
+* [Automatic production system of soccer sports video by digital camera work based on situation recognition](https://www.researchgate.net/publication/221558506_Automatic_Production_System_of_Soccer_Sports_Video_by_Digital_Camera_Work_Based_on_Situation_Recognition) (2006)
+* [Extracting 3d information from broadcast soccer video](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.89.870&rep=rep1&type=pdf) (2006)
+* [Fast arc detection algorithm for play field registration in soccer video mining](https://ieeexplore.ieee.org/document/4274696) (2006)
+* [Motion fields to predict play evolution in dynamic sport scenes](https://www.cc.gatech.edu/cpl/projects/playevolution/cvpr2010-pe.pdf) (2010)
+* [Automatic player labeling, tracking and field registration and trajectory mapping in broadcast soccer video](http://www.bmva.org/bmvc/2007/papers/paper-70.pdf) (2011)
+* [An algorithm for highlights identification and summarization of broadcast soccer videos](https://link.springer.com/content/pdf/10.1007/978-3-642-33275-3_106.pdf) (2012)
+* [Automatic soccer video analysis and summarization](https://www.researchgate.net/publication/5613899_Automatic_Soccer_Video_Analysis_and_Summarization) (2003)
+* [Robust video registration applied to field-sports video analysis](https://ivul.kaust.edu.sa/Documents/Publications/2012/Robust%20Video%20Registration%20Applied%20to%20Field-Sports%20Video%20Analysis.pdf) (2012)
+* [Automated top view registration of broadcast football videos](https://arxiv.org/pdf/1703.01437.pdf) (2017)
+* [Soccer on your tabletop](https://grail.cs.washington.edu/projects/soccer/soccer_on_your_tabletop.pdf) (2018)
 
 ## Datasets
+* [World Cup 2014 Dataset](http://www.cs.toronto.edu/~namdar/data/soccer_data.tar.gz) (Homayounfar et al., 2017)
+* [Highlights Dataset](https://www.cs.ubc.ca/~jhchen14/ccnn_player_detection/) (Chen et al., 2017)
