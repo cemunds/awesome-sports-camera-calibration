@@ -61,7 +61,7 @@ Feedback and contributions are welcome! To contribute, just create a [pull reque
 * [Method for pan-tilt camera calibration using single control point](https://www.researchgate.net/publication/269935858_Method_for_pan-tilt_camera_calibration_using_single_control_point) - Li, Y., Zhang, J., Hu, W., & Tian, J. (2015)
 * [Court reconstruction for camera calibration in broadcast basketball videos](https://ieeexplore.ieee.org/document/7118240) - Wen, P., Cheng, W., Wang, Y., Chu, H., Tang, N. C., & Liao, H. M. (2016)
 * [Deep regression for monocular camera-based 6-DoF global localization in outdoor environments](http://ais.informatik.uni-freiburg.de/publications/papers/naseer17iros.pdf) - Nascer, T., & Burgard, W. (2017)
-* [Sports field localization via deep structured models](http://www.cs.toronto.edu/~namdar/pdfs/sports_cvpr_2017.pdf) - Homayounfar, N., Fidler, S., & Urtasun, R. (2017)
+* [Sports field localization via deep structured models](http://www.cs.toronto.edu/~namdar/pdfs/sports_cvpr_2017.pdf) - [[Code](https://nhoma.github.io/papers/sports_soccer_code.zip)] - Homayounfar, N., Fidler, S., & Urtasun, R. (2017)
 * [A two-point method for PTZ camera calibration in sports](https://arxiv.org/pdf/1801.09005.pdf) - Chen, J., Zhu, F., & Little, J. J. (2018)
 * [Calibrating cameras in poor-conditioned pitch-based sports games](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0001902.pdf) - Zeng, R., Lakemond, R., Denman, S., Sridharan, S., Fookes, C., & Morgan, S. (2018)
 
@@ -71,7 +71,7 @@ Feedback and contributions are welcome! To contribute, just create a [pull reque
 * [PoseNet: A convolutional network for real-time 6-DOF camera relocalization](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf) - Kendall, A., Grimes, M., & Cipolla, R. (2015)
 * [Continuous localization and mapping of pan-tilt-zoom camera for wide area tracking](https://arxiv.org/pdf/1401.6606.pdf) - Lisanti, G., Masi, I., Pernici, F., & Del Bimbo, A. (2015)
 * [Realtime camera motion tracking in planar view scenarios](https://www.researchgate.net/publication/237842364_Real-Time_Camera_Motion_Tracking_in_Planar_View_Scenarios) - Alvarez, L., Gomez, L., Henriquez, P., & Sánchez, J. (2016)
-* [Pan-tilt-zoom SLAM for Sports Videos](https://bmvc2019.org/wp-content/uploads/papers/0329-paper.pdf) - Lu, J., Chen, J., & Little, J. J. (2019)
+* [Pan-tilt-zoom SLAM for Sports Videos](https://bmvc2019.org/wp-content/uploads/papers/0329-paper.pdf) - [[Code](https://github.com/lulufa390/Pan-tilt-zoom-SLAM)] - Lu, J., Chen, J., & Little, J. J. (2019)
 
 ### Misc
 * [Tracking players and a ball in video image sequence and estimating camera parameters for 3D interpretation of soccer games](http://www.aisl.cs.tut.ac.jp/~jun/pdffiles/yamada-icpr2002.pdf) - Yamada, A., Shirai, Y., & Miura, J. (2002)
