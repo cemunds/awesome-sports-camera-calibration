@@ -64,6 +64,7 @@ Feedback and contributions are welcome! To contribute, just create a [pull reque
 * [Sports field localization via deep structured models](http://www.cs.toronto.edu/~namdar/pdfs/sports_cvpr_2017.pdf) - [[Code](https://nhoma.github.io/papers/sports_soccer_code.zip)] - Homayounfar, N., Fidler, S., & Urtasun, R. (2017)
 * [A two-point method for PTZ camera calibration in sports](https://arxiv.org/pdf/1801.09005.pdf) - Chen, J., Zhu, F., & Little, J. J. (2018)
 * [Calibrating cameras in poor-conditioned pitch-based sports games](http://150.162.46.34:8080/icassp2018/ICASSP18_USB/pdfs/0001902.pdf) - Zeng, R., Lakemond, R., Denman, S., Sridharan, S., Fookes, C., & Morgan, S. (2018)
+* [Sports Camera Calibration via Synthetic Data](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Chen_Sports_Camera_Calibration_via_Synthetic_Data_CVPRW_2019_paper.pdf) - [[Code Part1](https://github.com/lood339/SCCvSD)/[Code Part 2](https://github.com/lood339/pytorch-two-GAN)] - Chen, J., & Little, J. J. (2019)
 
 ### Real-time Camera Pose Tracking
 * [A soccer field tracking method with wire frame model from TV images](https://ieeexplore.ieee.org/document/1421382) - Watanabe, T., Haseyama, M., & Kitajima, H. (2004)
