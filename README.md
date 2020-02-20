@@ -69,9 +69,9 @@ Feedback and contributions are welcome! To contribute, just create a [pull reque
 ### Real-time Camera Pose Tracking
 * [A soccer field tracking method with wire frame model from TV images](https://ieeexplore.ieee.org/document/1421382) - Watanabe, T., Haseyama, M., & Kitajima, H. (2004)
 * [Real-time camera tracking using sports pitch markings](https://www.researchgate.net/publication/220243595_Real-time_camera_tracking_using_sports_pitch_markings) - Thomas, G. (2007)
+* [Realtime camera motion tracking in planar view scenarios](https://www.researchgate.net/publication/237842364_Real-Time_Camera_Motion_Tracking_in_Planar_View_Scenarios) - Alvarez, L., Gomez, L., Henriquez, P., & Sánchez, J. (2013)
 * [PoseNet: A convolutional network for real-time 6-DOF camera relocalization](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf) - Kendall, A., Grimes, M., & Cipolla, R. (2015)
 * [Continuous localization and mapping of pan-tilt-zoom camera for wide area tracking](https://arxiv.org/pdf/1401.6606.pdf) - Lisanti, G., Masi, I., Pernici, F., & Del Bimbo, A. (2015)
-* [Realtime camera motion tracking in planar view scenarios](https://www.researchgate.net/publication/237842364_Real-Time_Camera_Motion_Tracking_in_Planar_View_Scenarios) - Alvarez, L., Gomez, L., Henriquez, P., & Sánchez, J. (2016)
 * [Pan-tilt-zoom SLAM for Sports Videos](https://bmvc2019.org/wp-content/uploads/papers/0329-paper.pdf) - [[Code](https://github.com/lulufa390/Pan-tilt-zoom-SLAM)] - Lu, J., Chen, J., & Little, J. J. (2019)
 
 ### Misc
