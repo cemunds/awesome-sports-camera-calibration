@@ -73,6 +73,7 @@ Feedback and contributions are welcome! To contribute, just create a [pull reque
 * [PoseNet: A convolutional network for real-time 6-DOF camera relocalization](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf) - Kendall, A., Grimes, M., & Cipolla, R. (2015)
 * [Continuous localization and mapping of pan-tilt-zoom camera for wide area tracking](https://arxiv.org/pdf/1401.6606.pdf) - Lisanti, G., Masi, I., Pernici, F., & Del Bimbo, A. (2015)
 * [Pan-tilt-zoom SLAM for Sports Videos](https://bmvc2019.org/wp-content/uploads/papers/0329-paper.pdf) - [[Code](https://github.com/lulufa390/Pan-tilt-zoom-SLAM)] - Lu, J., Chen, J., & Little, J. J. (2019)
+* [Real-time camera pose estimation for sports fields](https://arxiv.org/pdf/2003.14109.pdf) - Citraro, L., Marquez-Neila, P., Savare, S., Jayaram, V., Dubout, C., Renault, F., hasfura, A., Ben Shitrit, H., & Fua, P. (2020)
 
 ### Misc
 * [Tracking players and a ball in video image sequence and estimating camera parameters for 3D interpretation of soccer games](http://www.aisl.cs.tut.ac.jp/~jun/pdffiles/yamada-icpr2002.pdf) - Yamada, A., Shirai, Y., & Miura, J. (2002)
@@ -88,6 +89,8 @@ Feedback and contributions are welcome! To contribute, just create a [pull reque
 * [Robust video registration applied to field-sports video analysis](https://ivul.kaust.edu.sa/Documents/Publications/2012/Robust%20Video%20Registration%20Applied%20to%20Field-Sports%20Video%20Analysis.pdf) - Ghanem, B., Zhang, T., & Ahuja, N. (2012)
 * [Automated top view registration of broadcast football videos](https://arxiv.org/pdf/1703.01437.pdf) - Sharma, R. A., Bhat, B., Gandhi, V., & Jawahar, C. V. (2017)
 * [Soccer on your tabletop](https://grail.cs.washington.edu/projects/soccer/soccer_on_your_tabletop.pdf) - Rematas, K., Kemelmacher-Shlizerman, I., Curless, B., & Seitz, S. (2018)
+* [Optimizing Through Learned Errors for Accurate Sports Field Registration](https://arxiv.org/pdf/1909.08034.pdf) [[Code](https://github.com/vcg-uvic/sportsfield_release)] - Jiang, W., Gamboa Higuera, J. C., Angles, B., Sun, W., Javan, M., & Moo Yi, K. (2020)
+* [SFLNet: Direct Sports Field Localization via CNN-Based Regression](https://link.springer.com/chapter/10.1007/978-3-030-41404-7_48) - Tarashima, S. (2020)
 
 ## Datasets
 * [World Cup 2014 Dataset](http://www.cs.toronto.edu/~namdar/data/soccer_data.tar.gz) - Homayounfar, N., Fidler, S., & Urtasun, R. (2017)
