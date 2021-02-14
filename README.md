@@ -74,6 +74,7 @@ Feedback and contributions are welcome! To contribute, just create a [pull reque
 * [Continuous localization and mapping of pan-tilt-zoom camera for wide area tracking](https://arxiv.org/pdf/1401.6606.pdf) - Lisanti, G., Masi, I., Pernici, F., & Del Bimbo, A. (2015)
 * [Pan-tilt-zoom SLAM for Sports Videos](https://bmvc2019.org/wp-content/uploads/papers/0329-paper.pdf) - [[Code](https://github.com/lulufa390/Pan-tilt-zoom-SLAM)] - Lu, J., Chen, J., & Little, J. J. (2019)
 * [Real-time camera pose estimation for sports fields](https://arxiv.org/pdf/2003.14109.pdf) - Citraro, L., Marquez-Neila, P., Savare, S., Jayaram, V., Dubout, C., Renault, F., hasfura, A., Ben Shitrit, H., & Fua, P. (2020)
+* [A robust and efficient framework for sports-field registration](https://www.amazon.science/publications/a-robust-and-efficient-framework-for-sports-field-registration) - Nie, X., Chen, S., & Hamid, R. (2021)
 
 ### Misc
 * [Tracking players and a ball in video image sequence and estimating camera parameters for 3D interpretation of soccer games](http://www.aisl.cs.tut.ac.jp/~jun/pdffiles/yamada-icpr2002.pdf) - Yamada, A., Shirai, Y., & Miura, J. (2002)
